@@ -12,7 +12,7 @@ Cảm biến siêu âm đo khoảng cách đến vật cản bằng cách phát 
 
 Khoảng cách đến vật cản L = (khoảng thời gian t * vận tốc sóng siêu âm) / 2
 
-![MKE_S01_Ultrasonic](/image/MKE_S01_Ultrasonic_3.jpg)
+![MKE_S01](/image/MKE_S01_1.jpg)
 - Minh họa sóng siêu âm từ phát phát T (Transmitter) đến vật cản bị phản xạ lại và truyền tới mắt thu R (Receiver).
 - Minh họa sóng siêu âm từ phát phát T (Transmitter) đến vật cản bị phản xạ lại và truyền tới mắt thu R (Receiver).
 
@@ -36,13 +36,13 @@ Khoảng cách đến vật cản L = (khoảng thời gian t * vận tốc són
 
 ## Hình ảnh sản phẩm
 
-![MKE_S01_Ultrasonic](/image/MKE_S01_Ultrasonic_1.jpg)
+![MKE_S01](/image/MKE_S01_2.jpg)
 
-![MKE_S01_Ultrasonic](/image/MKE_S01_Ultrasonic_2.jpg)
+![MKE_S01](/image/MKE_S01_3.jpg)
 
 ## Kích thước sản phẩm
 
-![MKE_S01_Ultrasonic](/image/MKE_S01_Ultrasonic_4.JPG)
+![MKE_S01](/image/MKE_S01_4.JPG)
 
 ## Các chân tín hiệu
 
@@ -75,7 +75,7 @@ Khoảng cách đến vật cản L = (khoảng thời gian t * vận tốc són
 [Hướng dẫn cài đặt phần mềm, nạp chương trình, cài đặt bộ thư viện Arduino cơ bản.](https://github.com/makerlabvn/Arduino-Vietduino)
 - Tải và cài đặt [phần mềm Arduino tại đây.](https://www.arduino.cc/en/software)
 - Trong Tools / Library Manager, tìm và cài đặt bộ thư viện tổng hợp "MAKERLABVN" by MakerLab.vn
-- Mở chương trình mẫu "MKE_S01_Ultrasonic_LCD_Serial.ino" tại File / Examples / MAKERLABVN / Sensor / MKE-S01_Ultrasonic hoặc [tải chương trình mẫu tại đây](/arduino)
+- Mở chương trình mẫu "MKE_S01_Ultrasonic_LCD_Serial.ino" tại File / Examples / MAKERLABVN / Sensor / MKE_S01_Ultrasonic hoặc [tải chương trình mẫu tại đây](/arduino)
 - Chọn board là Arduino Uno (mạch Vietduino Uno tương thích với Arduino Uno), chọn đúng cổng COM Port của mạch và tiến hành nạp chương trình.
 - Kết nối mạch Vietduino Uno với MakerEdu Shield, kết nối cảm biến tại cổng [D12,13] và màn hình LCD vào cổng [I2C] trên MakerEdu Shield, cấp nguồn qua cổng USB của Vietduino Uno để thấy chương trình hoạt động.
 
